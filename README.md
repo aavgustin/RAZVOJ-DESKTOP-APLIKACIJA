@@ -1,6 +1,6 @@
 # RAZVOJ-DESKTOP-APLIKACIJA
 
-Daily Flow  
+<h1>Daily Flow</h1>  
 ----------  
 Luka Majetić  
 Laura Celcner  
