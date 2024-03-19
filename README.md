@@ -1,3 +1,8 @@
 # RAZVOJ-DESKTOP-APLIKACIJA
 
-read me 123
+Daily Flow
+----------
+Luka Majetić
+Laura Celcner
+Juraj Jukica
+Anto Avgustinović
